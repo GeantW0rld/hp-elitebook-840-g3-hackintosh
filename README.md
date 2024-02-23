@@ -22,7 +22,7 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
 # Some screenshots
 
-![Screenshot]()
+![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/mac.png)
 
 # Credits
 
