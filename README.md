@@ -3,7 +3,7 @@ EFI for the HP Elitebook 840 G3
 
 Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
-**WARNING**: this efi use AirportItlwm for wifi (works without issues for me) so please update the kext when the release out : https://github.com/OpenIntelWireless/itlwm/releases
+**WARNING**: this efi use AirportItlwm for wifi (if you want get stable use Heliport and download itlwm) so please update the kext when the release out : https://github.com/OpenIntelWireless/itlwm/releases
 
 # Laptop Specs
 - CPU : intel core i5 6300U
@@ -20,6 +20,10 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
 ![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221105.jpg)
 
+# Some screenshots
+
+![Screenshot]()
+
 # Credits
 
 [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) - Made the OpenCore guide
@@ -29,3 +33,5 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 [Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader |  AppleALC | BlueToolFixup | IntelMausi | Lilu | VirtualSMC | WhateverGreen | etc
 
 [Apple](https://www.apple.com/) - Made MacOS
+
+[VoodooSMBus](https://github.com/VoodooSMBus) - Made VoodooRMI & VoodooSMBus
