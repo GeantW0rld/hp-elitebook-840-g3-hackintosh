@@ -14,4 +14,8 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
 # Bios Settings
 
-![Screenshot]()
+![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221044.jpg)
+
+![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221054.jpg)
+
+![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221105.jpg)
