@@ -19,3 +19,13 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 ![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221054.jpg)
 
 ![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221105.jpg)
+
+# Credits
+
+[Dortania](https://dortania.github.io/OpenCore-Install-Guide/) - Made the OpenCore guide
+
+[itlwm](https://github.com/OpenIntelWireless/itlwm) - for Intel wifi | bluetooth
+
+[Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader |  AppleALC | BlueToolFixup | IntelMausi | Lilu | VirtualSMC | WhateverGreen | etc
+
+[Apple] - Made MacOS
