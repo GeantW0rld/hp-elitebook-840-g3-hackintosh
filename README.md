@@ -28,4 +28,4 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
 [Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader |  AppleALC | BlueToolFixup | IntelMausi | Lilu | VirtualSMC | WhateverGreen | etc
 
-[Apple] - Made MacOS
+[Apple](https://www.apple.com/) - Made MacOS
