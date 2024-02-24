@@ -22,14 +22,14 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
 # What's work
 
-Graphics
-Battery
-Audio
-wifi and Bluetooth
-Internet
-DP and VGA
-Key
-Trackpad
+- Graphics
+- Battery
+- Audio
+- wifi and Bluetooth
+- Internet
+- DP and VGA
+- Key
+- Trackpad
 
 # Some screenshots
 
