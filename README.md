@@ -8,8 +8,7 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 # Laptop Specs
 - CPU : intel core i5 6200U
 - GPU : Integrated Intel HD Graphics 520
-- Wifi : Intel Wireless AC 8260
-- Bluetooth : IDK
+- Wifi/Bluetooth : Intel Wireless AC 8260
 - Audo codec : Conexant CX20724
 
 # Bios Settings
