@@ -11,6 +11,10 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 - Wifi/Bluetooth : Intel Wireless AC 8260
 - Audo codec : Conexant CX20724
 
+# Supported MacOS Version
+- Sonoma 14.4
+- Sonoma 14.0 -> 14.3
+
 # Bios Settings
 
 ![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/IMG_20240223_221044.jpg)
