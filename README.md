@@ -12,8 +12,8 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 - Audo codec : Conexant CX20724
 
 # Supported MacOS Version
-- [Sonoma 14.4](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.4/)
-- [Sonoma 14.0 -> 14.3](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.0%20to%2014.3/)
+- [Sonoma 14.4 (not tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.4/)
+- [Sonoma 14.0 -> 14.3 (tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.0%20to%2014.3/)
 
 # Bios Settings
 
