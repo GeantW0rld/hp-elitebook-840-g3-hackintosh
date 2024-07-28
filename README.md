@@ -14,6 +14,7 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 # Supported MacOS Version
 - [Sonoma 14.4 (not tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.4/)
 - [Sonoma 14.0 -> 14.3 (tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.0%20to%2014.3/)
+- No support for BETA version or another model of HP brand (please ask to Hackintosh community), this efi is exclusively for HP Elitebook 840 G3
 
 # Bios Settings
 
