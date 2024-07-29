@@ -1,4 +1,6 @@
 # hp-elitebook-840-g3-hackintosh-efi
+## No longer updated due laptop died, if you have any questions, please ask to Hackintosh community without mention this repo
+
 EFI for the HP Elitebook 840 G3
 
 Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
