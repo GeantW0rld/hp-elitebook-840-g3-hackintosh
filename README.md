@@ -4,13 +4,12 @@ EFI for the HP Elitebook 840 G3
 
 Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
-**WARNING**: this efi use AirportItlwm for wifi (if you want get stable use Heliport and download itlwm) so please update the kext when the release out : https://github.com/OpenIntelWireless/itlwm/releases
-
 # Laptop Specs
 - CPU : intel core i5 6200U
 - GPU : Integrated Intel HD Graphics 520
 - Wifi/Bluetooth : Intel Wireless AC 8260
 - Audo codec : Conexant CX20724
+- Memory : 8192 (8GB) Ram DDR4
 
 # Supported MacOS Version
 - [Sonoma 14.4 (not tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.4/)
@@ -50,5 +49,3 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 [Acidanthera](https://github.com/acidanthera) - OpenCore Bootloader |  AppleALC | BlueToolFixup | IntelMausi | Lilu | VirtualSMC | WhateverGreen | etc
 
 [Apple](https://www.apple.com/) - Made MacOS
-
-[VoodooSMBus](https://github.com/VoodooSMBus) - Made VoodooRMI & VoodooSMBus
