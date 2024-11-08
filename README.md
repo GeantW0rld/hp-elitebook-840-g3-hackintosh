@@ -12,9 +12,9 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 - Memory : 8192 (8GB) Ram DDR4
 
 # Supported MacOS Version
-- [Sonoma 14.4 (not tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.4/)
+- sequoia 15.x.x (tested)
+- [Sonoma 14.4 (tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.4/)
 - [Sonoma 14.0 -> 14.3 (tested)](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh/tree/main/MacOS%20Sonoma%20for%2014.0%20to%2014.3/)
-- sequoia 15.x.x (in progress)
 - No support for BETA version or another model of HP brand (please ask to Hackintosh community), this efi is exclusively for HP Elitebook 840 G3
 
 # Bios Settings
