@@ -34,7 +34,7 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 - Internet
 - DP and VGA
 - Key
-- Trackpad
+- Trackpad (Before MacOS 15.x the Trackpad is not fixed with VoodooRMI, please check https://github.com/VoodooSMBus/VoodooRMI for more info for installation (EFI For MacOS 15+ have VoodooRMI and VoodooSMBus))
 
 # Some screenshots
 
