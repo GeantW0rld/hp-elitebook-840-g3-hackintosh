@@ -40,6 +40,11 @@ Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
 ![Screenshot](https://github.com/GeantW0rld/hp-elitebook-840-g3-hackintosh-efi/blob/main/Images/mac15.png)
 
+# Support
+You can support me by buying a coffee for 1€ 😊
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="geantworld" data-color="#40DCA5" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 # Credits
 
 [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) - Made the OpenCore guide
