@@ -4,6 +4,8 @@ EFI for the HP Elitebook 840 G3
 
 Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
+- Note: I don't use anymore hp elitebook 840 G3 since I got a macbook air M3, but I continue to update this repo
+
 # Laptop Specs
 - CPU : intel core i5 6200U
 - GPU : Integrated Intel HD Graphics 520
