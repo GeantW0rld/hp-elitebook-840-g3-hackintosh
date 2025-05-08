@@ -4,7 +4,7 @@ EFI for the HP Elitebook 840 G3
 
 Prebuilt opencore EFI for macos (for the hp elitebook 840 G3)
 
-- Note: I don't use anymore hp elitebook 840 G3 since I got a macbook air M3, but I continue to update this repo
+- Note: No longer use the hp elitebook 840, I left the hackintosh community now, thank you for supporting, you can fork this repo for do you own hackintosh for future macos version
 
 # Laptop Specs
 - CPU : intel core i5 6200U
